@@ -1,0 +1,17 @@
+.blue-header-container{
+    background-color: lightskyblue;
+    padding: 3px;
+    text-align: center;
+    font-weight: 500;
+}
+
+#new{
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+
+.blue-header-container a{
+    color: black;
+}
