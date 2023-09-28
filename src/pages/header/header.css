@@ -1,0 +1,18 @@
+.header-menu-btn{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.header-menu{
+    align-items: center;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+}
+
+.register-menu{
+    display: flex;
+}
